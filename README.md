@@ -1,9 +1,9 @@
 # team_data_set
 
+We'll be using data from the Olympics.
 
 
-
-Installation
+#Installation
 
 To follow this project, please install the following locally:
 
